@@ -150,7 +150,7 @@ const PRODUCTS = [
       { name: "Deep", hex: "#7B523B", id: "p4-s3" },
     ],
     image:
-      "https://images.unsplash.com/photo-1596462502278-27bfdd403348?auto=format&fit=crop&q=80&w=600",
+      "https://img.joomcdn.net/ad01f93862140ec9685d53c2b5a1c882191b5d0c_original.jpeg",
   },
 ];
 
